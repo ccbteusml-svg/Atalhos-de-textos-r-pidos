@@ -1,0 +1,17 @@
+{
+  "name": "QuickText Pro",
+  "short_name": "QuickText",
+  "start_url": "./index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/724/724715.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
